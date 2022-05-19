@@ -1,3 +1,12 @@
+/**
+ * @author Dinh Quang Duy (dinhduy2012003@gmail.com)
+ * @brief 
+ * @version 1.0
+ * @date 2022-05-07
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include "define.cpp"
 #include "func.cpp"
 #include "student.cpp"
